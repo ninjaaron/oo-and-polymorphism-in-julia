@@ -80,4 +80,5 @@ important, but I've changed my mind. It will be discussed later.
 
 This tutorial is about how to use object oriented design patterns in
 Julia, as well as its capabilities for polymorphism, such as multiple
-dispatch, inheritance, generics, the trait pattern, etc.
+dispatch, inheritance, generics, the trait pattern, etc. [Let's get on
+with it, then](./comp-and-encap.ipynb).
