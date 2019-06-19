@@ -11,7 +11,7 @@ Please open an issue if anything doesn't make sense! I tried to be clear
 ## Introduction
 
 While [Julia](https://julialang.org/) is a purely object oriented
-language in in same sense as Smalltalk--i.e. everything is an object--
+language in same sense as Smalltalk--i.e. everything is an object--
 Julia does lack some features in traditional object oriented languages;
 namely, classes. However, Julia does have robust features that allow
 many familiar patterns and strategies for abstracting complex data.
