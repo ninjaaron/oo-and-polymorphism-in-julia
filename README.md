@@ -26,9 +26,9 @@ OO approach to complexity, as I see them.
   other objects.
 - encapsulation: the ability to create a simple, flat interface to
   objects that are complex interenally.
-- polymorphism: the ability to treat different objects of the different
-  type similarly if they provide the same interfaces. (Kind of the bonus
-  one.)
+- polymorphism: the ability to treat different objects of different
+  types similarly if they provide the same interfaces. (Kind of the
+  bonus one.)
 
 Classical object orientation puts all these features into classes.
 Julia doesn't have classes, but does have features which provided
