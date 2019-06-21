@@ -4,7 +4,7 @@ Contents:
 
 - [Introduction](README.md)
 - [Composition and Encapsulation](./comp-and-encap.ipynb)
-- [Polymorphism and Code Reuse](./polymorphism.ipynb)
+- [Polymorphism](./polymorphism.ipynb)
 
 Please open an issue if anything doesn't make sense! I tried to be clear
 
