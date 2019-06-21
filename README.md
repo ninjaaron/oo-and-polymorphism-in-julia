@@ -6,7 +6,11 @@ Contents:
 - [Composition and Encapsulation](./comp-and-encap.ipynb)
 - [Polymorphism](./polymorphism.ipynb)
 
-Please open an issue if anything doesn't make sense! I tried to be clear
+Please open an issue if anything doesn't make sense! I tried to be clear.
+
+These notebooks have been run with Julia 1.1, but should theoretically be
+compatible with the entire 1.x series. If you're using a different
+version, it is possible some syntax may be broken.
 
 ## Introduction
 
