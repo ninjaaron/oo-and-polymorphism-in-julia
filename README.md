@@ -6,10 +6,11 @@ Contents:
 - [Composition and Encapsulation](./comp-and-encap.ipynb)
 - [Polymorphism](./polymorphism.ipynb)
 
-Please open an issue if anything doesn't make sense! I tried to be clear.
+Please open an issue if anything doesn't make sense! I tried to be
+clear.
 
-These notebooks have been run with Julia 1.1, but should theoretically be
-compatible with the entire 1.x series. If you're using a different
+These notebooks have been run with Julia 1.1, but should theoretically
+be compatible with the entire 1.x series. If you're using a different
 version, it is possible some syntax may be broken.
 
 Christopher Rackauckas has written a fantastic blog post that deals
@@ -48,7 +49,7 @@ OO approach to complexity, as I see them.
 Classical object orientation puts all these features into classes.
 Julia doesn't have classes, but does have features which provided
 excellent support for these design strategies: structs, methods,
-multiple dispatch and flexible generics.
+multiple dispatch, abstract types and flexible generics.
 
 This tutorial is about how to use these features for data abstraction in
 Julia, with some thoughts and comparisons about how they are similar to
