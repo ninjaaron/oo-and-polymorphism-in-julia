@@ -12,6 +12,17 @@ These notebooks have been run with Julia 1.1, but should theoretically be
 compatible with the entire 1.x series. If you're using a different
 version, it is possible some syntax may be broken.
 
+Christopher Rackauckas has written a fantastic blog post that deals
+with many of the same techniques discussed in this guide,
+[Type-Dispatch Design: Post Object-Oriented Programming for
+Julia](http://www.stochasticlifestyle.com/type-dispatch-design-post-object-oriented-programming-julia/). See
+also
+[here](http://ucidatascienceinitiative.github.io/IntroToJulia/Html/DispatchDesigns). His
+material is a bit more technical and, relative to my guide, more
+focused on the efficiency aspects of different techniques. There is a
+fair amount of overlap between my material and his, but they are
+complementary in a lot of ways.
+
 ## Introduction
 
 While [Julia](https://julialang.org/) is a purely object oriented
