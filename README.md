@@ -27,10 +27,10 @@ complementary in a lot of ways.
 ## Introduction
 
 While [Julia](https://julialang.org/) is a purely object oriented
-language in same sense as Smalltalk--i.e. everything is an object--
-Julia does lack some features in traditional object oriented languages;
-namely, classes. However, Julia does have robust features that allow
-many familiar patterns and strategies for abstracting complex data.
+language in the sense that everything is an object, Julia does lack
+some features in traditional object oriented languages; namely,
+classes. However, Julia does have robust features that allow many
+familiar patterns and strategies for abstracting complex data.
 
 I like to think of object oriented programming not as bound to any
 particular language features, but a set of approaches to data
