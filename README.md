@@ -9,9 +9,9 @@ Contents:
 Please open an issue if anything doesn't make sense! I tried to be
 clear.
 
-These notebooks have been run with Julia 1.1, but should theoretically
-be compatible with the entire 1.x series. If you're using a different
-version, it is possible some syntax may be broken.
+These notebooks have been run with Julia 1.1 and 1.4, but should
+theoretically be compatible with the entire 1.x series. If you're
+using a later version, it is possible some syntax may be broken.
 
 Christopher Rackauckas has written a fantastic blog post that deals
 with many of the same techniques discussed in this guide,
@@ -24,11 +24,18 @@ focused on the efficiency aspects of different techniques. There is a
 fair amount of overlap between my material and his, but they are
 complementary in a lot of ways.
 
+Tom Kwong released a book in January of 2020 called [Hands-On Design
+Patterns and Best Practices with
+Julia](https://www.packtpub.com/eu/application-development/hands-design-patterns-julia-10)
+which contains some material similar to this guide and a lot more
+besides. I would recommend it to anyone interested in developing
+large-scale applications or libraries in Julia.
+
 ## Introduction
 
-While [Julia](https://julialang.org/) is a purely object oriented
-language in the sense that everything is an object, Julia does lack
-some features in traditional object oriented languages; namely,
+While [Julia](https://julialang.org/) is an object oriented language
+in the sense that everything is an object, Julia does lack some
+features in traditional object oriented languages; namely,
 classes. However, Julia does have robust features that allow many
 familiar patterns and strategies for abstracting complex data.
 
